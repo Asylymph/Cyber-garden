@@ -2,7 +2,7 @@ from machine import Pin
 import socket
 import math
 import utime
-import network
+import network 
 import time
 import json
 from dht import DHT11, InvalidChecksum
